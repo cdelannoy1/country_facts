@@ -26,8 +26,8 @@ def main():
 
 		st.write ("- This app has four sections :")
 		st.write ("1) Home Page")
-		st.write ("3) Exploratory Data Analysis - Data Analysis, Visualization Parts and insights")
-		st.write ("4) SQL Playground")
+		st.write ("2) Exploratory Data Analysis - Data Analysis, Visualization Parts and insights")
+		st.write ("3) SQL Playground")
 		st.write ("4) About")
 
 		st.write("The dataset I'm using is the CIA country facts one. It contains informations like population, area, GDP and much more !")
